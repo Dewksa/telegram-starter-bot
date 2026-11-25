@@ -1,3 +1,4 @@
+// trigger deploy
 const TelegramBot = require('node-telegram-bot-api');
 const { execFile } = require('child_process');
 const fs = require('fs');
